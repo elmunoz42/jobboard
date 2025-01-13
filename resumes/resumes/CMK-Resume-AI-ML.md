@@ -1,10 +1,10 @@
 # Carlos Munoz Kampff
 
 ## Profile
-I'm a Tech Team Lead who leverages AI to drive business growth. My expertise spans leadership, software development, and business intelligence. With over 10 years of experience, I've led transformative full-stack development and data science initiatives.
+I'm a Tech Team Lead who leverages AI to drive business growth. My expertise spans team leadership, software development, and business intelligence. With over 10 years of experience, I've led transformative full-stack development and data science initiatives.
 
 **Key achievements include:**
-- Developing a robust inventory and sales processing system from the ground up that is now handling 4000 monthly orders nationwide
+- Developing a robust inventory and sales processing system from the ground up that is now handling 4,000 monthly orders nationwide
 - Creating multimodal live BI dashboards for a New York Times Best Selling Author
 - Helping dozens of businesses with their digital transformation with a comprehensive customer life cycle data driven approach
 
