@@ -1,6 +1,40 @@
 # jobs/models.py
 from django.db import models
-from django.utils import timezone
+from django.utils import timezone  
+from pathlib import Path
+import os
+
+class Resume(models.Model):
+    name = models.CharField(max_length=200)
+    filename = models.CharField(max_length=200)
+    notes = models.TextField(blank=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    def get_content(self):
+        resume_path = Path(__file__).resolve().parent.parent / 'resumes' / 'resumes' / self.filename
+        if resume_path.exists():
+            return resume_path.read_text()
+        return ""
+
+    def __str__(self):
+        return self.name
+
+class CoverLetter(models.Model):
+    name = models.CharField(max_length=200)
+    filename = models.CharField(max_length=200)
+    notes = models.TextField(blank=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    def get_content(self):
+        letter_path = Path(__file__).resolve().parent.parent / 'resumes' / 'coverletter_templates' / self.filename
+        if letter_path.exists():
+            return letter_path.read_text()
+        return ""
+
+    def __str__(self):
+        return self.name
 
 class Company(models.Model):
     name = models.CharField(max_length=200)
@@ -47,6 +81,10 @@ class JobListing(models.Model):
     distance_to_sb = models.IntegerField(null=True, blank=True, help_text="Distance to Santa Barbara in miles")
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    resume_used = models.ForeignKey(Resume, on_delete=models.SET_NULL, null=True, blank=True)
+    cover_letter_used = models.ForeignKey(CoverLetter, on_delete=models.SET_NULL, null=True, blank=True)
+    application_notes = models.TextField(blank=True, help_text="Notes about customizations made to resume/cover letter")
+
 
     def __str__(self):
         return f"{self.title} at {self.company.name}"
