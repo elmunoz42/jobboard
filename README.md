@@ -1,4 +1,4 @@
-# Personal Job Board
+# Job Board
 
 A Django-based application for tracking job applications, managing resumes and cover letters, and organizing your job search.
 
@@ -9,7 +9,7 @@ A Django-based application for tracking job applications, managing resumes and c
   - Salary ranges
   - Work type (remote, hybrid, on-site)
   - Application status
-  - Distance from Santa Barbara
+  - Distance from a given location
 - Manage multiple versions of resumes and cover letters in Markdown format
 - Link specific resumes and cover letters to job applications
 - Track application status and notes
