@@ -32,8 +32,9 @@ I excel at transforming complex challenges into innovative AI-powered solutions.
   - Spearheaded development of full-stack application as Tech Lead
   - Architected initial codebase and implemented React.js/Redux front end integrating with a Python / Django back end
   - Established quality control processes including automated testing and code review workflows
-  - Built and mentored a team of three developers
-- Results:
+  - Engineered inventory search and autocomplete algorithms to expedite and increase accuracy of sales quotes and orders.
+  - Built and mentored a team of four developers (including myself)
+- **Results:**
   - Scaled system to handle 4000+ monthly orders nationwide
   - Successfully integrated multiple shipping providers (FedEx, USPS)
   - Reduced order processing time by 60% through automation
@@ -51,7 +52,7 @@ I excel at transforming complex challenges into innovative AI-powered solutions.
   - Successfully monitored 100+ servers with zero downtime
  
 #### Fountain City Tech AI Chat Agent Design and Implementation
-- **Marketing team needed to increase the number of leads**
+- **Marketing team needed to increase the number of qualified leads**
 - **Action:**
   - Designed and implemented AI Chat Agent Widget custom WordPress plugin
   - Integrated with Claude and ChatGPT API Using Different Models depending on task
