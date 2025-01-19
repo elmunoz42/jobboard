@@ -75,7 +75,7 @@ Served non-profits and small businesses needing digital transformation solutions
 
 #### Abundant Earth Foundation's Digital Initiative
 - Tackled challenge of resource-limited environmental projects lacking web presence. Designed and implemented content management system to support multiple restoration projects, including Paradise California fire recovery. 
-- Established streamlined workflow allowing foundation to launch new project sites within days instead of months, resulting in 200% increase in online donations.
+- Established streamlined workflow allowing foundation to launch new project sites within days instead of months, resulting in 30% increase in online donations.
 
 ### CloudEngage — Customer Success Engineer
 *2017-2018*
