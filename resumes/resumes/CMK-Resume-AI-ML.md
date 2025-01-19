@@ -15,7 +15,7 @@ I excel at transforming complex challenges into innovative AI-powered solutions.
 ### Fountain City, Inc. — Full Stack Developer and BI Architect
 *2019 - 2025*
 
-##### Multi-Modal LifeCycle Reporting and Predictions Dashboard for The Wiseman Group
+#### Multi-Modal LifeCycle Reporting and Predictions Dashboard for The Wiseman Group
 - **The client needed to consolidate fragmented data from 8+ platforms to track customer journey and predict adspend ROI**
 - **Architected and implemented a comprehensive dashboard system that:**
   - Engineered data pipeline integrations with YouTube, HubSpot, Google Analytics 4, and 7+ other platforms
