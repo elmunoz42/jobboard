@@ -85,7 +85,7 @@ Served non-profits and small businesses needing digital transformation solutions
 
 ### Star Power Music School - Business Founder, Manager and Software Developer
 *2011-2017*
-- **Community needed a reliable, in-home, achievement excellence and connection focused music education service**
+- **Community needed a reliable, in-home, excellence and connection focused music education service**
 - **Action:**
   - Created an ecommerce setup with recurring monthly billing dependent on student attendance.
   - Created a custom mobile iOS app so teachers could track attendance, lesson notes and convenient Google Maps navigation to student.
