@@ -71,7 +71,7 @@ Served non-profits and small businesses needing digital transformation solutions
 
 #### Weaver Network Community Platform
 - Faced with disconnected environmental activists worldwide, created scalable forum platform enabling global collaboration. 
-- Engineered comprehensive system with role-based access control, moderation tools, and topical discussion frameworks. Platform successfully connected 1000+ environmental advocates and facilitated planning for Global Earth Repair conference.
+- Engineered comprehensive system with role-based access control, moderation tools, and topical discussion frameworks. Platform successfully connected 100+ environmental advocates and facilitated planning for Global Earth Repair conference.
 
 #### Abundant Earth Foundation's Digital Initiative
 - Tackled challenge of resource-limited environmental projects lacking web presence. Designed and implemented content management system to support multiple restoration projects, including Paradise California fire recovery. 
