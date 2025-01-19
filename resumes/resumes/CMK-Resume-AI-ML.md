@@ -95,7 +95,7 @@ Served non-profits and small businesses needing digital transformation solutions
   - Partenered with Geries AbouAyash's J.J. Music Camps for year round live performance events.
 - **Result:**
   - The school grew to 5 teachers, three of them full time.
-  - Community events where often referred to by student parents as the highlight of the families lives.
+  - Community events where often referred to by student parents as the highlight of the familie's lives.
 
 ## Education
 
