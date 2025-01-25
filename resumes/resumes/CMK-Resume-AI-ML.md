@@ -94,7 +94,7 @@ Served non-profits and small businesses needing digital transformation solutions
 
 ### CloudEngage — Customer Success Engineer
 *2017-2018*
-- **Business Leaders and Marketing Directors needed a way to personalize their digital presence for different buyer personae.**
+- **Business Leaders and Marketing Directors needed a way to dynamically personalize their digital presence for different buyer personae in real time.**
 - **Action:**
   - Worked with clients such as T-mobile and Dock Martins to help them leverage cutting edge website personalization tools from CloudEngage.  
   - Engineered and deployed location-based marketing solutions integrating geofencing, store locator systems, and real-time chat features. 
