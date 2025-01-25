@@ -5,7 +5,7 @@ Tech Team Lead who leverages Artificial Intelligence (AI) and Machine Learning (
 
 **Key achievements include:**
 - Developing a robust inventory and sales processing system from the ground up that is now handling 4,000 monthly orders nationwide
-- Creating multimodal live BI dashboards for a New York Times Best Selling Author
+- Creating multimodal live predictive analytics dashboards for a New York Times Best Selling Author
 - Helping dozens of businesses with their digital transformation with a comprehensive customer life cycle data driven approach
 
 I excel at transforming complex challenges into innovative AI-powered solutions. My track record demonstrates the ability to deliver high-impact, scalable tech solutions across diverse business needs.
