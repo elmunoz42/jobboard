@@ -89,8 +89,8 @@ Full Time (Remote), Portland, Oregon, *2019 - 2025*
   - Twarted tens of thousands of security attacks
   - Caught critical functionality issues early
 
-### CMK Web and Digital Arts — Full Stack Developer (CONSULTANT) 
-*2018-2019*
+### Consultant — Full Stack Developer
+Full Time (Remote), *2018-2019*
 
 Served non-profits and small businesses needing digital transformation solutions. Here are some notable examples.
 
@@ -109,7 +109,7 @@ Served non-profits and small businesses needing digital transformation solutions
   - Successfully online donation effort raised $10,000 in a few weeks and coalesced over 100 volunteers to travel to Paradise and help restore the city's public school and other commons.
 
 ### CloudEngage — Customer Success Engineer
-*2017-2018*
+Full Time (On Location) Portland, OR *2017-2018*
 - **Business Leaders and Marketing Directors needed a way to dynamically personalize their digital presence for different buyer personae in real time.**
 - **Action:**
   - Worked with clients such as T-mobile and Dock Martins to help them leverage cutting edge website personalization tools from CloudEngage.  
@@ -118,7 +118,7 @@ Served non-profits and small businesses needing digital transformation solutions
   - Key implementations increased client engagement rates by average of 40% and reduced customer service response times by 65%. Transformed company's own web presence, resulting in 35% increase in qualified lead generation.
 
 ### Star Power Music School - Business Founder, Manager and Software Developer
-*2011-2017*
+Full Time (Hybrid) Berkeley, CA *2011-2017*
 - **Community needed a reliable, in-home, excellence-driven and connection-focused music education service**
 - **Action:**
   - Created an ecommerce setup with recurring monthly billing dependent on student attendance.
