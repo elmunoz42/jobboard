@@ -20,8 +20,8 @@ Team management - Hiring / Firing Processes - Onboarding - Fluent in English, Sp
 
 ## Professional Experience
 
-### Fountain City, Inc. — Full Stack Developer and BI (SPELL OUT) Architect
-Remote, Portland, Oregon, *2019 - 2025*
+### Fountain City, Inc. — Full Stack Developer and Business Intelligence Architect
+Full Time (Remote), Portland, Oregon, *2019 - 2025*
 
 #### Multi-Modal LifeCycle Reporting and Predictions Dashboard for The Wiseman Group
 - **The client needed to consolidate fragmented data from 8+ platforms to track customer journey and predict adspend ROI**
@@ -72,6 +72,17 @@ Remote, Portland, Oregon, *2019 - 2025*
   - Integrated metrics and contact data with CRM and Google Analytics [**PENDING**]
  - **Results:**
    - Qualified leads increased by 15% [**PENDING**]
+
+#### Multi Site Hosting, Continuous Integration, Automated Security Patching and Observability Systems
+- **Fountain City's 20+ clients needed a reliable, safe and version controlled application management system**
+- **Action:**
+  - Created hosting system with Web Host Manager (WHM), Cpanel, JetBackup and CloudFlare software.
+  - Implemented continuous integration pipelines for real-time GIT version control collaboration.
+  - Created centralized security threat management dashboard.
+  - Developed custom software update plugin and observability monitoring.
+  - Automated Quality Assurance of critical functionality using Testim.io 
+- **Result:**
+  - 
 
 ### CMK Web and Digital Arts — Full Stack Developer (CONSULTANT) 
 *2018-2019*
