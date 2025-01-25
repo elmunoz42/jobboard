@@ -10,6 +10,14 @@ I'm a Tech Team Lead who leverages AI to drive business growth. My expertise spa
 
 I excel at transforming complex challenges into innovative AI-powered solutions. My track record demonstrates the ability to deliver high-impact, scalable tech solutions across diverse business needs.
 
+## Technical Skills
+
+Javascript - Typescript - Python - Pandas - Scikit-Learn - SQL - PHP - Git - Looker Studio - Google Analytics - Google Maps API - ChatGPT API - Open Source LLM Systems and Applications 
+
+## Soft Skills 
+
+Team management - Hiring / Firing Processes - Onboarding - Fluent in English, Spanish, Portugues and German - Technical Communication - Managing Client Expectations - Communication About Issues Proactively
+
 ## Professional Experience
 
 ### Fountain City, Inc. — Full Stack Developer and BI Architect
@@ -25,12 +33,13 @@ I excel at transforming complex challenges into innovative AI-powered solutions.
   - Reduced report generation time from days to minutes
   - Enabled data-driven decisions by providing real-time KPIs
   - Successfully predicted revenue trends based on user engagement metrics
+  - Following the project's success the dashboard has been adapted and used on other project within the agency.
 
 #### Tech Team Lead for MITCO Tires Sales Processing System
 - **Company lacked a centralized system for processing nationwide sales and managing inventory across multiple warehouses**
 - **Planning, Cooperation and Implementation:**
   - Spearheaded development of full-stack application as Tech Lead
-  - Architected initial codebase and implemented React.js/Redux front end integrating with a Python / Django back end
+  - Architected initial codebase and implemented Typescript/React.js/Redux front end integrating with a Python / Django back end
   - Established quality control processes including automated testing and code review workflows
   - Engineered inventory search and autocomplete algorithms to expedite and increase accuracy of sales quotes and orders.
   - Built and mentored a team of four developers (including myself)
@@ -64,24 +73,28 @@ I excel at transforming complex challenges into innovative AI-powered solutions.
  - **Results:**
    - Qualified leads increased by 15% [**PENDING**]
 
-### CMK Web and Digital Arts — Full Stack Developer
+### CMK Web and Digital Arts — Free-Lance Full Stack Developer
 *2018-2019*
 
-Served non-profits and small businesses needing digital transformation solutions. 
+Served non-profits and small businesses needing digital transformation solutions. Here are some notable examples.
 
 #### Weaver Network Community Platform
-- Faced with disconnected environmental activists worldwide, created scalable forum platform enabling global collaboration. 
-- Engineered comprehensive system with role-based access control, moderation tools, and topical discussion frameworks. Platform successfully connected 100+ environmental advocates and facilitated planning for Global Earth Repair conference.
+- **Global Earth Repair Conference (and later other similar conferences) needed a way to organize community engagement efforts year round.**
+- **Action:** Created scalable online forum platform enabling global collaboration. Engineered comprehensive system with role-based access control, moderation tools, and topical discussion frameworks.
+-  **Results:** Platform successfully connected 300+ environmental advocates and facilitated planning and year-round intitiatives for Global Earth Repair conference, Planet Humboldt, Permaculture Magazine and Aranya Solutions Summit.
 
-#### Abundant Earth Foundation's Digital Initiative
-- Tackled challenge of resource-limited environmental projects lacking web presence. Designed and implemented content management system to support multiple restoration projects, including Paradise California fire recovery. 
-- Established streamlined workflow allowing foundation to launch new project sites within days instead of months, resulting in 30% increase in online donations.
+#### Abundant Earth Foundation's Digital Initiatives
+- **Natural Disaster Relief Project Required Time Sensitive Organization Platform**
+- **Action:** Designed and implemented donor management systems and in kind donation SQL database setup for Paradise California fire recovery project.
+- **Result:** Successfully online donation effort raised $10,000 in a few weeks and coalesced over 100 volunteers to travel to Paradise and help restore the city's public school and other commons.
 
 ### CloudEngage — Customer Success Engineer
 *2017-2018*
-
-- Joined early-stage personalization platform (now Chord) to solve enterprise clients' customer engagement challenges. 
+- **Business Leaders and Marketing Directors needed a way to personalize their digital presence for different buyer personae.**
+- **Action:**
+- Worked with clients such as T-mobile and Dock Martins to help them leverage cutting edge website personalization tools from CloudEngage.  
 - Engineered and deployed location-based marketing solutions integrating geofencing, store locator systems, and real-time chat features. 
+- **Result:**
 - Key implementations increased client engagement rates by average of 40% and reduced customer service response times by 65%. Transformed company's own web presence, resulting in 35% increase in qualified lead generation.
 
 ### Star Power Music School - Business Founder, Manager and Software Developer
@@ -91,6 +104,7 @@ Served non-profits and small businesses needing digital transformation solutions
   - Created an ecommerce setup with recurring monthly billing dependent on student attendance.
   - Created a custom mobile iOS app so teachers could track attendance, lesson notes and convenient Google Maps navigation to student.
   - Hired and Fired team members based on strict performance metrics.
+  - Managed the accounting and teacher payments and benefits.
   - Created an 8 achievement level methodology for guitar, bass, drums and keyboard in colaboration with teachers.
   - Each semester student level testing was evaluated by me directly. (This was also an evaluation of teacher methodology)
   - Partenered with Geries AbouAyash's J.J. Music Camps for year round live performance events.
@@ -112,6 +126,6 @@ Served non-profits and small businesses needing digital transformation solutions
   - Certificate of Entrepreneurial Leadership
   - 2015-2016
 
-- **Berklee College of Music, Boston, MA**
-  - BA in Film Scoring (With Focus on Audio Engineering and Sound Design)
+- **Berklee College of Music, MA**
+  - BA (Audio / Video Engineering and Sound Design)
   - 2000-2004
