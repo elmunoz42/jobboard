@@ -80,22 +80,26 @@ Served non-profits and small businesses needing digital transformation solutions
 
 #### Weaver Network Community Platform
 - **Global Earth Repair Conference (and later other similar conferences) needed a way to organize community engagement efforts year round.**
-- **Action:** Created scalable online forum platform enabling global collaboration. Engineered comprehensive system with role-based access control, moderation tools, and topical discussion frameworks.
--  **Results:** Platform successfully connected 300+ environmental advocates and facilitated planning and year-round intitiatives for Global Earth Repair conference, Planet Humboldt, Permaculture Magazine and Aranya Solutions Summit.
+- **Action:**
+  - Created scalable online forum platform enabling global collaboration. Engineered comprehensive system with role-based access control, moderation tools, and topical discussion frameworks.
+-  **Results:**
+  -  Platform successfully connected 300+ environmental advocates and facilitated planning and year-round intitiatives for Global Earth Repair conference, Planet Humboldt, Permaculture Magazine and Aranya Solutions Summit.
 
 #### Abundant Earth Foundation's Digital Initiatives
 - **Natural Disaster Relief Project Required Time Sensitive Organization Platform**
-- **Action:** Designed and implemented donor management systems and in kind donation SQL database setup for Paradise California fire recovery project.
-- **Result:** Successfully online donation effort raised $10,000 in a few weeks and coalesced over 100 volunteers to travel to Paradise and help restore the city's public school and other commons.
+- **Action:**
+  - Designed and implemented donor management systems and in kind donation SQL database setup for Paradise California fire recovery project.
+- **Result:**
+  - Successfully online donation effort raised $10,000 in a few weeks and coalesced over 100 volunteers to travel to Paradise and help restore the city's public school and other commons.
 
 ### CloudEngage — Customer Success Engineer
 *2017-2018*
 - **Business Leaders and Marketing Directors needed a way to personalize their digital presence for different buyer personae.**
 - **Action:**
-- Worked with clients such as T-mobile and Dock Martins to help them leverage cutting edge website personalization tools from CloudEngage.  
-- Engineered and deployed location-based marketing solutions integrating geofencing, store locator systems, and real-time chat features. 
+  - Worked with clients such as T-mobile and Dock Martins to help them leverage cutting edge website personalization tools from CloudEngage.  
+  - Engineered and deployed location-based marketing solutions integrating geofencing, store locator systems, and real-time chat features. 
 - **Result:**
-- Key implementations increased client engagement rates by average of 40% and reduced customer service response times by 65%. Transformed company's own web presence, resulting in 35% increase in qualified lead generation.
+  - Key implementations increased client engagement rates by average of 40% and reduced customer service response times by 65%. Transformed company's own web presence, resulting in 35% increase in qualified lead generation.
 
 ### Star Power Music School - Business Founder, Manager and Software Developer
 *2011-2017*
