@@ -69,28 +69,28 @@ Full Time (Remote), Portland, Oregon, *2019 - 2025*
   - Train Models with Custom Knowledge Base (KB) Retrieval-Augmented Generation (RAG) setup
     - Created Custom sitemap plugin to optimize KB so its always up to date
     - Provided addtional documents to fine tune the branding and quality of responses
-  - Created QA system for evaluation response quality and workflow accuracy [**PENDING**]
-  - Integrated metrics and contact data with CRM and Google Analytics [**PENDING**]
+  - Created QA system for evaluation response quality and workflow accuracy
+  - Integrated metrics and contact data with CRM and Google Analytics
  - **Result:**
-   - Qualified leads increased by 15% [**PENDING**]
+   - Qualified leads increased by 15%
 
 #### Multi Site Hosting, Continuous Integration, Automated Security Patching and Observability Systems
 - **Fountain City's 20+ clients needed a reliable, safe and version controlled application management system**
 - **Action:**
-  - Created hosting system with Web Host Manager (WHM), Cpanel, JetBackup and CloudFlare software.
-  - Implemented continuous integration pipelines for real-time GIT version control accross multiple environments.
-  - Setup a centralized security threat management dashboard.
-  - Developed custom software to automatically patch security vulnerabilities with GIT version control.
-  - Developed custom observability monitoring system with immediate failure notification systems.
+  - Created hosting system with Web Host Manager (WHM), Cpanel, JetBackup and CloudFlare software
+  - Implemented continuous integration pipelines for real-time GIT version control accross multiple environments
+  - Setup a centralized security threat management dashboard
+  - Developed custom software to automatically patch security vulnerabilities with GIT version control
+  - Developed custom observability monitoring system with immediate failure notification systems
   - Automated Quality Assurance of critical functionality using Testim.io
-  - Site migrations for 30+ clients, and onboard to our suite of systems.
+  - Site migrations for 30+ clients, and onboard to our suite of systems
 - **Result:**
   - Delivered 99.99% uptime
   - Twarted tens of thousands of security attacks
   - Caught critical functionality issues early
 
 ### Consultant — Full Stack Developer
-Full Time (Remote), *2018-2019*
+Full Time (Remote), Portland OR, *2018-2019*
 
 Served non-profits and small businesses needing digital transformation solutions. Here are some notable examples.
 
@@ -98,7 +98,7 @@ Served non-profits and small businesses needing digital transformation solutions
 - **Global Earth Repair Conference (and later other similar conferences) needed a way to organize community engagement efforts year round.**
 - **Action:**
   - Created scalable online forum platform enabling global collaboration. Engineered comprehensive system with role-based access control, moderation tools, and topical discussion frameworks.
--  **Results:**
+-  **Result:**
   -  Platform successfully connected 300+ environmental advocates and facilitated planning and year-round intitiatives for Global Earth Repair conference, Planet Humboldt, Permaculture Magazine and Aranya Solutions Summit.
 
 #### Abundant Earth Foundation's Digital Initiatives
@@ -142,10 +142,10 @@ Full Time (Hybrid) Berkeley, CA *2011-2017*
   - Certificate in Software Development
   - 2017
 
-- **JFKU (SPELL OUT), Pleasanton, CA**
+- **John Fitzgerald Kennedy (SPELL OUT), Pleasanton, CA**
   - Certificate of Entrepreneurial Leadership
   - 2015-2016
 
 - **Berklee College of Music, MA**
-  - BA (Audio / Video Engineering and Sound Design)
+  - BA (Audio Engineering and Sound Design for Film)
   - 2000-2004
