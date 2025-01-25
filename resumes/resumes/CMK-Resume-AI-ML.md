@@ -73,7 +73,7 @@ Team management - Hiring / Firing Processes - Onboarding - Fluent in English, Sp
  - **Results:**
    - Qualified leads increased by 15% [**PENDING**]
 
-### CMK Web and Digital Arts — Full Stack Developer
+### CMK Web and Digital Arts — Full Stack Developer (CONSULTANT) 
 *2018-2019*
 
 Served non-profits and small businesses needing digital transformation solutions. Here are some notable examples.
