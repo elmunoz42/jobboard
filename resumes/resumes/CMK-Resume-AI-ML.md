@@ -21,7 +21,7 @@ Team management - Hiring / Firing Processes - Onboarding - Fluent in English, Sp
 ## Professional Experience
 
 ### Fountain City, Inc. — Full Stack Developer and BI (SPELL OUT) Architect
-*2019 - 2025*
+Remote, Portland, Oregon, *2019 - 2025*
 
 #### Multi-Modal LifeCycle Reporting and Predictions Dashboard for The Wiseman Group
 - **The client needed to consolidate fragmented data from 8+ platforms to track customer journey and predict adspend ROI**
