@@ -1,7 +1,7 @@
 # Carlos Munoz Kampff
 
 ## Profile
-Tech Team Lead who leverages AI to drive business growth. Expertise spans team leadership, software development, and business intelligence. With over 10 years of experience, has led transformative full-stack development, business intelligence and machine learning initiatives.
+Tech Team Lead who leverages AI to drive business growth. Expertise spans team leadership, software development, and business intelligence. With over 10 years of experience, has led transformative full-stack development, business intelligence (REDUNANT) and machine learning initiatives.
 
 **Key achievements include:**
 - Developing a robust inventory and sales processing system from the ground up that is now handling 4,000 monthly orders nationwide
@@ -20,7 +20,7 @@ Team management - Hiring / Firing Processes - Onboarding - Fluent in English, Sp
 
 ## Professional Experience
 
-### Fountain City, Inc. — Full Stack Developer and BI Architect
+### Fountain City, Inc. — Full Stack Developer and BI (SPELL OUT) Architect
 *2019 - 2025*
 
 #### Multi-Modal LifeCycle Reporting and Predictions Dashboard for The Wiseman Group
@@ -114,7 +114,7 @@ Served non-profits and small businesses needing digital transformation solutions
   - Partenered with Geries AbouAyash's J.J. Music Camps for year round live performance events.
 - **Result:**
   - The school grew to 5 teachers, three of them full time.
-  - Community events where often referred to by student parents as the highlight of the familie's lives.
+  - Community events where often referred to by student parents as the highlight of the family's lives.
 
 ## Education
 
@@ -126,7 +126,7 @@ Served non-profits and small businesses needing digital transformation solutions
   - Certificate in Software Development
   - 2017
 
-- **JFKU, Pleasanton, CA**
+- **JFKU (SPELL OUT), Pleasanton, CA**
   - Certificate of Entrepreneurial Leadership
   - 2015-2016
 
