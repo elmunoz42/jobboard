@@ -25,11 +25,12 @@ Full Time (Remote), Portland, Oregon, *2019 - 2025*
 
 #### Multi-Modal LifeCycle Reporting and Predictions Dashboard for The Wiseman Group
 - **The client needed to consolidate fragmented data from 8+ platforms to track customer journey and predict adspend ROI**
-- **Architected and implemented a comprehensive dashboard system that:**
+- **Action:**
   - Engineered data pipeline integrations with YouTube, HubSpot, Google Analytics 4, and 7+ other platforms
   - Developed custom Looker Studio and Python visualizations and implemented linear regression models
   - Created interactive filtering systems for granular data analysis
-- **Delivered an 8-page live reporting system that**:
+- **Result:**
+  - Delivered an 8-page live reporting system  
   - Reduced report generation time from days to minutes
   - Enabled data-driven decisions by providing real-time KPIs
   - Successfully predicted revenue trends based on user engagement metrics
@@ -37,13 +38,13 @@ Full Time (Remote), Portland, Oregon, *2019 - 2025*
 
 #### Tech Team Lead for MITCO Tires Sales Processing System
 - **Company lacked a centralized system for processing nationwide sales and managing inventory across multiple warehouses**
-- **Planning, Cooperation and Implementation:**
+- **Action:**
   - Spearheaded development of full-stack application as Tech Lead
   - Architected initial codebase and implemented Typescript/React.js/Redux front end integrating with a Python / Django back end
   - Established quality control processes including automated testing and code review workflows
   - Engineered inventory search and autocomplete algorithms to expedite and increase accuracy of sales quotes and orders.
   - Built and mentored a team of four developers (including myself)
-- **Results:**
+- **Result:**
   - Scaled system to handle 4000+ monthly orders nationwide
   - Successfully integrated multiple shipping providers (FedEx, USPS)
   - Reduced order processing time by 60% through automation
@@ -70,19 +71,23 @@ Full Time (Remote), Portland, Oregon, *2019 - 2025*
     - Provided addtional documents to fine tune the branding and quality of responses
   - Created QA system for evaluation response quality and workflow accuracy [**PENDING**]
   - Integrated metrics and contact data with CRM and Google Analytics [**PENDING**]
- - **Results:**
+ - **Result:**
    - Qualified leads increased by 15% [**PENDING**]
 
 #### Multi Site Hosting, Continuous Integration, Automated Security Patching and Observability Systems
 - **Fountain City's 20+ clients needed a reliable, safe and version controlled application management system**
 - **Action:**
   - Created hosting system with Web Host Manager (WHM), Cpanel, JetBackup and CloudFlare software.
-  - Implemented continuous integration pipelines for real-time GIT version control collaboration.
-  - Created centralized security threat management dashboard.
-  - Developed custom software update plugin and observability monitoring.
-  - Automated Quality Assurance of critical functionality using Testim.io 
+  - Implemented continuous integration pipelines for real-time GIT version control accross multiple environments.
+  - Setup a centralized security threat management dashboard.
+  - Developed custom software to automatically patch security vulnerabilities with GIT version control.
+  - Developed custom observability monitoring system with immediate failure notification systems.
+  - Automated Quality Assurance of critical functionality using Testim.io
+  - Site migrations for 30+ clients, and onboard to our suite of systems.
 - **Result:**
-  - 
+  - Delivered 99.99% uptime
+  - Twarted tens of thousands of security attacks
+  - Caught critical functionality issues early
 
 ### CMK Web and Digital Arts — Full Stack Developer (CONSULTANT) 
 *2018-2019*
