@@ -1,7 +1,7 @@
 # Carlos Munoz Kampff
 
 ## Profile
-Tech Team Lead who leverages AI to drive business growth. Expertise spans team leadership, software development, and business intelligence. With over 10 years of experience, has led transformative full-stack development, business intelligence (REDUNANT) and machine learning initiatives.
+Tech Team Lead who leverages Artificial Intelligence (AI) and Machine Learning (ML) to drive business growth. Expertise spans team leadership, software development, and business intelligence. With over 14 years of experience, has led transformative full-stack software development, system automation deployments and large language model (LLM) agent integrations.
 
 **Key achievements include:**
 - Developing a robust inventory and sales processing system from the ground up that is now handling 4,000 monthly orders nationwide
@@ -13,10 +13,6 @@ I excel at transforming complex challenges into innovative AI-powered solutions.
 ## Technical Skills
 
 Javascript - Typescript - Python - Pandas - Scikit-Learn - SQL - PHP - Git - Looker Studio - Google Analytics - Google Maps API - ChatGPT API - Open Source LLM Systems and Applications 
-
-## Soft Skills 
-
-Team management - Hiring / Firing Processes - Onboarding - Fluent in English, Spanish, Portugues and German - Technical Communication - Managing Client Expectations - Communication About Issues Proactively
 
 ## Professional Experience
 
@@ -83,12 +79,24 @@ Full Time (Remote), Portland, Oregon, *2019 - 2025*
   - Developed custom software to automatically patch security vulnerabilities with GIT version control
   - Developed custom observability monitoring system with immediate failure notification systems
   - Automated Quality Assurance of critical functionality using Testim.io
-  - Site migrations for 30+ clients, and onboard to our suite of systems
+  - Planned and performed site migrations for 40+ clients, and onboard them to our suite of systems.
 - **Result:**
   - Delivered 99.99% uptime
   - Twarted tens of thousands of security attacks
   - Caught critical functionality issues early
 
+#### Developer Team Recruiting, Onboarding and Code Reviews
+- **Fountain City required a team of developers with different expertise that can produce software solutions at a world class level.**
+- **Action:**
+  - Created a robust documentation system for React, PHP, SQL and CMS frameworks and multitude of SaaS integrations
+  - Created task templates with thorough checklists
+  - Evaluated new developers with live skill tests (over video conference / screen share)
+  - Onboarded and Offboarded 10+ developers
+  - Performed code reviews, quality assurance scripts (in collaboration with QA specialist), and when needed escalated issues to my superiors proactively
+  - Listened to developer concerns and frustration and collaborated on implementing quality of life improvements
+- **Result:**
+  - Curated a dynamic well trained team and a culture of software development excellence
+    
 ### Consultant — Full Stack Developer
 Full Time (Remote), Portland OR, *2018-2019*
 
@@ -149,3 +157,8 @@ Full Time (Hybrid) Berkeley, CA *2011-2017*
 - **Berklee College of Music, MA**
   - BA (Audio Engineering and Sound Design for Film)
   - 2000-2004
+ 
+
+## Soft Skills
+
+Team management - Hiring / Firing Processes - Onboarding - Fluent in English, Spanish, Portugues and German - Technical Communication - Managing Client Expectations - Communication About Issues Proactively
