@@ -23,10 +23,12 @@ Full Time (Remote), Portland, Oregon, *2019 - 2025*
 - **The client needed to consolidate fragmented data from 8+ platforms to track customer journey and predict adspend ROI**
 - **Action:**
   - Engineered data pipeline integrations with YouTube, HubSpot, Google Analytics 4, and 7+ other platforms
-  - Developed custom Looker Studio and Python visualizations and implemented linear regression models
-  - Created interactive filtering systems for granular data analysis
-- **Result:**
-  - Delivered an 8-page live reporting system  
+  - Setup custom Looker Studio with 8-page live reporting system
+    - Over 40 live report tables, maps and graphs
+    - Created interactive filtering systems for granular data analysis accross date, viewport, and traffic attribution
+  - Developed Python / Pandas / Seaborn visualizations to review historical data
+  - Implemented linear regression models using Google BigQuery and Python Scikit-Learn models to predic sales of different prospect segments
+- **Result:**  
   - Reduced report generation time from days to minutes
   - Enabled data-driven decisions by providing real-time KPIs
   - Successfully predicted revenue trends based on user engagement metrics
