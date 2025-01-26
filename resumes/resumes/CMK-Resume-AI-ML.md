@@ -32,7 +32,7 @@ Full Time (Remote), Portland, Oregon, *2019 - 2025*
   - Reduced report generation time from days to minutes
   - Enabled data-driven decisions by providing real-time KPIs
   - Successfully predicted revenue trends based on user engagement metrics
-  - Following the project's success the dashboard has been adapted and used on other project within the agency.
+  - Following the project's success the dashboard has been adapted and used on other project within the agency
 
 #### Tech Team Lead for MITCO Tires Sales Processing System
 - **Company lacked a centralized system for processing nationwide sales and managing inventory across multiple warehouses**
@@ -84,7 +84,7 @@ Full Time (Remote), Portland, Oregon, *2019 - 2025*
   - Planned and performed site migrations for 40+ clients, and onboard them to our suite of systems.
 - **Result:**
   - Delivered 99.99% uptime
-  - Twarted tens of thousands of security attacks
+  - Thwarted tens of thousands of security attacks
   - Caught critical functionality issues early
 
 #### Developer Team Recruiting, Onboarding and Code Reviews
@@ -109,7 +109,7 @@ Served non-profits and small businesses needing digital transformation solutions
 - **Action:**
   - Created scalable online forum platform enabling global collaboration. Engineered comprehensive system with role-based access control, moderation tools, and topical discussion frameworks.
 -  **Result:**
-  -  Platform successfully connected 300+ environmental advocates and facilitated planning and year-round intitiatives for Global Earth Repair conference, Planet Humboldt, Permaculture Magazine and Aranya Solutions Summit.
+  -  Platform successfully connected 300+ environmental advocates and facilitated planning and year-round initiatives for Global Earth Repair conference, Planet Humboldt, Permaculture Magazine and Aranya Solutions Summit.
 
 #### Abundant Earth Foundation's Digital Initiatives
 - **Natural Disaster Relief Project Required Time Sensitive Organization Platform**
@@ -120,9 +120,9 @@ Served non-profits and small businesses needing digital transformation solutions
 
 ### CloudEngage — Customer Success Engineer
 Full Time (On Location) Portland, OR *2017-2018*
-- **Business Leaders and Marketing Directors needed a way to dynamically personalize their digital presence for different buyer personae in real time.**
+- **Business Leaders and Marketing Directors needed a way to dynamically personalize their digital presence for different buyer personae in real-time.**
 - **Action:**
-  - Worked with clients such as T-mobile and Dock Martins to help them leverage cutting edge website personalization tools from CloudEngage.  
+  - Worked with clients such as T-mobile and Doc Martens to help them leverage cutting edge website personalization tools from CloudEngage.  
   - Engineered and deployed location-based marketing solutions integrating geofencing, store locator systems, and real-time chat features. 
 - **Result:**
   - Key implementations increased client engagement rates by average of 40% and reduced customer service response times by 65%. Transformed company's own web presence, resulting in 35% increase in qualified lead generation.
@@ -135,9 +135,9 @@ Full Time (Hybrid) Berkeley, CA *2011-2017*
   - Created a custom mobile iOS app so teachers could track attendance, lesson notes and convenient Google Maps navigation to student.
   - Hired and Fired team members based on strict performance metrics.
   - Managed the accounting and teacher payments and benefits.
-  - Created an 8 achievement level methodology for guitar, bass, drums and keyboard in colaboration with teachers.
+  - Created an 8 achievement level methodology for guitar, bass, drums and keyboard in collaboration with teachers.
   - Each semester student level testing was evaluated by me directly. (This was also an evaluation of teacher methodology)
-  - Partenered with Geries AbouAyash's J.J. Music Camps for year round live performance events.
+  - Partnered with Geries AbouAyash's J.J. Music Camps for year round live performance events.
 - **Result:**
   - The school grew to 5 teachers, three of them full time.
   - Community events where often referred to by student parents as the highlight of the family's lives.
@@ -152,7 +152,7 @@ Full Time (Hybrid) Berkeley, CA *2011-2017*
   - Certificate in Software Development
   - 2017
 
-- **John Fitzgerald Kennedy (SPELL OUT), Pleasanton, CA**
+- **John Fitzgerald Kennedy, Pleasanton, CA**
   - Certificate of Entrepreneurial Leadership
   - 2015-2016
 
@@ -163,4 +163,4 @@ Full Time (Hybrid) Berkeley, CA *2011-2017*
 
 ## Soft Skills
 
-Team management - Hiring / Firing Processes - Onboarding - Fluent in English, Spanish, Portugues and German - Technical Communication - Managing Client Expectations - Communication About Issues Proactively
+Team management - Hiring / Firing Processes - Onboarding - Fluent in English, Spanish, Portuguese and German - Technical Communication - Managing Client Expectations - Communication About Issues Proactively
