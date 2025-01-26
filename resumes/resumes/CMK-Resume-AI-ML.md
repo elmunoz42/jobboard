@@ -12,7 +12,7 @@ I excel at transforming complex challenges into innovative AI-powered solutions.
 
 ## Technical Skills
 
-Javascript - Typescript - Python - Pandas - Scikit-Learn - SQL - PHP - Git - Looker Studio - Google Analytics - Google Maps API - ChatGPT API - Open Source LLM Systems and Applications 
+Javascript - Typescript - React.js - Next.js - Python - Pandas - Scikit-Learn - SQL - PHP - Git - Looker Studio - Google Analytics - Google Maps API - ChatGPT API - Open Source LLM Systems and Applications 
 
 ## Professional Experience
 
